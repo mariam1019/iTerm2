@@ -2,7 +2,7 @@
     "name": "protobufjs-websocket-example",
     "version": "1.1.0",
     "dependencies": {
-        "protobufjs": "~5.0.1",
+        "protobufjs": "~6.0.0",
         "ws": ">=1.1.1",
         "open": "0.0.3"
     },
